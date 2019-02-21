@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+assets/.DS_Store
+.vscode/launch.json
+package-lock.json
+__pycache__/app.cpython-37.pyc
+app.pyc
+.DS_Store
