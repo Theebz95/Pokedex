@@ -1,0 +1,26 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "pokedex for pokemon",
+  "main": "index.js",
+  "dependencies": {
+    "vue": "^2.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Theebz95/Pokedex.git"
+  },
+  "keywords": [
+    "pokemon"
+  ],
+  "author": "Piratheeban",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Theebz95/Pokedex/issues"
+  },
+  "homepage": "https://github.com/Theebz95/Pokedex#readme"
+}
