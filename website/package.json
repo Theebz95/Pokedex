@@ -9,9 +9,12 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "sweetalert2": "^8.2.6",
     "vodal": "^2.4.0",
     "vue": "^2.5.22",
-    "vue-spinner": "^1.0.3"
+    "vue-click-outside": "^1.0.7",
+    "vue-spinner": "^1.0.3",
+    "vue-sweetalert2": "^1.6.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.4.0",
